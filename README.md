@@ -11,7 +11,7 @@ MEME network will start with an initial supply of 5,000,000,000 MEME tokens. Add
 |         `Airdrop`	        |        `55%`	         |    `2,750,000,000`    |
 |        `Community`	      |        `10%`	         |     `500,000,000`     |
 |        `Team Fund`        |	       `10%`	         |     `500,000,000`     |
-| `MeMe Foundation reserve` |        `10%`           |     `500,000,000`     |
+| `MEME Foundation reserve` |        `10%`           |     `500,000,000`     |
 |        `Ecosytem`	        |        `15%`	         |     `750,000,000`     |
 
 [![Website](https://raw.githubusercontent.com/memecosmos/assetlists/main/img/meme-1-distribution.jpg)](https://meme.sx)
